@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.0835in" height="0.179in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1 2"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="407" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Bebas Neue Bold">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="6" horiz-adv-x="396"><path d="M33.0079 168c0,-112 58.9921,-176 166.992,-176 108,0 167.008,64 167.008,176l0 128c0,103.008 -41.0079,160 -122,160 -49.0079,0 -83.0079,-22 -102,-62l0 128c0,67.0079 22,86 60.9921,86 35.0079,0 57.0079,-18.9921 57.0079,-68.9921l0 -25.0079 104 0 0 18c0,112 -56,176 -164,176 -114,0 -168,-64 -168,-182l0 -358zm166.992 188c35.0079,0 57.0079,-18.9921 57.0079,-68.9921l0 -126c0,-50 -22,-68 -57.0079,-68 -34.9921,0 -56.9921,18 -56.9921,68l0 126c0,50 22,68.9921 56.9921,68.9921z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Bebas Neue Bold";src:url("#FontID0") format(svg)}
+    .fil0 {fill:white}
+    .fnt0 {font-weight:bold;font-size:2.66246px;font-family:'Bebas Neue Bold'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="0" y="2"  class="fil0 fnt0">6</text>
+ </g>
+</svg>
