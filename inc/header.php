@@ -252,7 +252,7 @@ $q = "select akseslegal from employee where EmpId='".$_SESSION['userid']."' ";
 						</a>
 						<ul class="dropdown-menu">
 							<li><a href="<?php echo $__CFG_http_apps?>index.php/system/profile"><i class="fa fa-user"></i> My Profile</a></li>
-							<li><a href="<?php echo $__CFG_http_apps?>logout.php"><i class="fa fa-power-off"></i> Log Out</a></li>
+							<li><a href="<?php echo $__CFG_http_apps?>home/logout"><i class="fa fa-power-off"></i> Log Out</a></li>
 						</ul>
 					</li>
 					<!-- END USER LOGIN DROPDOWN -->
@@ -634,7 +634,7 @@ $q = "select akseslegal from employee where EmpId='".$_SESSION['userid']."' ";
 								</a>
 								<ul class="sub">
 									<li<?php echo $pageCurrent == "mom" ? ' class="active"' : ''?>><a class="" href="<?php echo $__CFG_http_apps?>request"><span class="icon-user"></span> Create New</a></li>
-									<li<?php echo $pageCurrent == "mom" ? ' class="active"' : ''?>><a class="" href="<?php echo $__CFG_http_apps?>index.php/master/documentwizard/?idtype=3"><span class="icon-user"></span> List of Request</a></li>
+									<li<?php echo $pageCurrent == "mom" ? ' class="active"' : ''?>><a class="" href="<?php echo $__CFG_http_apps?>request/list"><span class="icon-user"></span> List of Request</a></li>
 								</ul>
 							</li>
 							<li class="has-sub<?php echo $pageActive == "laporan2" ? ' active' : ''?>">

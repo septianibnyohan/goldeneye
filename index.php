@@ -4,10 +4,17 @@ session_start();
 require_once("__init.php");
 require_once($__CFG_dir_class . "globalclassdata.php");
 
+spl_autoload_register(function($class){
+	include_once "system/libs/".$class.".php";
+});
+
+/*
 include_once "system/libs/Main.php";
 include_once "system/libs/DController.php";
 include_once "system/libs/DModel.php";
+include_once "system/libs/Database.php";
 include_once "system/libs/Load.php";
+*/
 
 
 //echo $_SESSION['userid'];
